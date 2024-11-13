@@ -1,0 +1,35 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-servers",
+    "name": "FlowM8",
+    "license": "GNU AGPLv3",
+    "category": "provisioning",
+    "description": {
+        "name": "FlowM8",
+        "tagline": "Provisioning Module that connects to a n8n instance from WHMCS.",
+        "long": "This module allows connection to a personal n8n server for advanced workflows using n8n webhook triggers.",
+        "features": [
+            "Create Account Trigger",
+            "Terminate Account Trigger",
+            "Suspend Account Trigger",
+            "Unsuspend Account Trigger",
+            "Change Password Trigger"
+        ]
+    },
+    "logo": {
+        "filename": "FlowM8.png"
+    },
+    "support": {
+        "homepage": "https:\/\/www.byteblend.co.uk\/", 
+        "learn_more": "https:\/\/www.byteblend.co.uk\/", 
+        "email": "support@byteblend.co.uk", 
+        "support_url": "https:\/\/clients.byteblend.co.uk\/",
+        "docs_url": "https:\/\/docs.byteblend.co.uk\/"
+    },
+    "authors": [
+        {
+            "name": "ByteBlend",
+            "homepage": "https:\/\/www.byteblend.co.uk\/"
+        }
+    ]
+}
